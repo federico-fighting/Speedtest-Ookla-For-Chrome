@@ -198,4 +198,4 @@ This repository serves as the official landing page for Speedtest by Ookla. The 
 **Get the most recent version of Speedtest by Ookla today!**
 
 ---
-**Last updated:** 2026-11-08 20:57:57 UTC
+**Last updated:** 2026-11-09 00:42:45 UTC
